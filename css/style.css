@@ -1,0 +1,148 @@
+/**/
+.h1 {
+    background: linear-gradient(27deg, purple, white, blue);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.tituloh1 {
+    color: white;
+}
+
+.enlaces_inicio>a {
+    color: rgb(255, 253, 253);
+}
+
+
+.bienvenida {
+    color: white;
+}
+
+/*.center{
+height: 50%;
+width: 95%;
+background-color: blueviolet;
+margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text {
+    height: 300px;
+    width: 100%;
+
+    color: rgb(25, 26, 25);
+    background-image: url(/img/toro\ corte\ laser.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.im1 {
+    width: 1000px;
+    height: 800px;
+    display: block;
+    margin: 0 auto;
+}
+
+.text {
+    position: relative;
+    overflow: hidden;
+    padding: top 1225, 423;
+
+}
+
+.text iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+
+}
+
+.imganes {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.sus {
+    font: size 25px;
+    ;
+}
+
+.img1 {
+    width: 500px;
+    height: 400px;
+}
+
+.img2 {
+    width: 500px;
+    height: 400px;
+}
+
+.img3 {
+    width: 500px;
+    height: 400px;
+}/**
